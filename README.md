@@ -2,7 +2,7 @@
 
 In this project I been assigned the task of analyzing the data for a most recent fantasy game Heroes of Pymoli.
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company asked me to generate a report that breaks down the game's purchasing data into meaningful insights.
 
 My final report includes each of the following:
 
