@@ -1,4 +1,4 @@
-# -Heroes-Of-Pymoli-Data-Analysis
+# Heroes-Of-Pymoli-Data-Analysis
 
 In this project I been assigned the task of analyzing the data for a most recent fantasy game Heroes of Pymoli.
 
